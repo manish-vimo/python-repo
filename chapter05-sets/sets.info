@@ -1,0 +1,6 @@
+Set is one of 4 built-in data types in Python used to store collections of data including List, Tuple, and Dictionary
+Sets are unordered, but you can remove items and add new items.
+Set elements are unique. Duplicate elements are not allowed.
+A set itself may be modified, but the elements contained in the set must be of an immutable type.
+Sets are used to store multiple items in a single variable.
+You can denote a set with a pair of curly brackets {}.

@@ -1,0 +1,9 @@
+Tuples are immutable lists and cannot be changed in any way once it is created.
+	Tuples are defined in the same way as lists.
+	They are enclosed within parenthesis and not within square braces.
+	Tuples are ordered, indexed collections of data.
+	Similar to string indices, the first value in the tuple will have the index [0], the second value [1]
+	Negative indices are counted from the end of the tuple, just like lists.
+	Tuple also has the same structure where commas separate the values.
+	Tuples can store duplicate values.
+	Tuples allow you to store several data items including string, integer, float in one variable.

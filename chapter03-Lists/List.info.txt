@@ -1,0 +1,6 @@
+Lists are ordered.
+Lists can contain any arbitrary objects.
+List elements can be accessed by index.
+Lists can be nested to arbitrary depth.
+Lists are mutable.
+Lists are dynamic.
